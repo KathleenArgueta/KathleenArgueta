@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Hi, I'm Kathleen Argueta. Resilient by default, honest by choice. QA, Cloud, SOC." />
+<img src="assets/header.svg" width="100%" alt="Hi, I'm Kathleen Argueta. People-first engineer. I ask why, standardize the how, and keep going. QA, Cloud, SOC." />
 
 <br>
 
