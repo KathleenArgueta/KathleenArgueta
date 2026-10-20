@@ -102,6 +102,6 @@ That's how I see learning: don't wait for the answer to find you. Go out, learn 
 
 <br><br>
 
-<sub>Journal 3 drawn as fan art of Gravity Falls.</sub>
+<sub>Made with love, Kate. The same love I would like to deliver to your organization</sub>
 
 </div>
