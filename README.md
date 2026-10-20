@@ -7,12 +7,12 @@
 <img src="assets/journal-top.svg" width="360" alt="" />
 
 <details>
-<summary><b>Open the journal</b> <img height="26" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" alt="dancing parrot" /></summary>
+<summary><b>Open the journal</b></summary>
 
 <br>
 <img src="assets/avatar.png" width="260" alt="Kathleen Argueta" />
 
-<a href="https://kathleenargueta.github.io"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=26&duration=3200&pause=700&color=FF5FA8&center=true&vCenter=true&width=720&lines=Welcome+to+my+journal!;Software+Engineering+%26+Digital+Business+%40+ESEN;Looking+for+my+first+QA%2C+Cloud+or+SOC+internship;AIESEC+Local+Committee+President;Resilient+by+default%2C+honest+by+choice;Gravity+Falls+fan.+Trust+no+one." alt="Welcome to my journal! Software Engineering & Digital Business @ ESEN" /></a>
+<a href="https://kathleenargueta.github.io"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=26&duration=3200&pause=700&color=FF5FA8&center=true&vCenter=true&width=720&lines=Welcome+to+my+journal!;Software+Engineering+%26+Digital+Business+%40+ESEN;Looking+for+my+first+QA%2C+Cloud+or+SOC+internship;AIESEC+Local+Committee+President;People-first+engineer;Curious+by+nature.+Gravity+Falls+fan." alt="Welcome to my journal! Software Engineering & Digital Business @ ESEN" /></a>
 
 <details>
 <summary><b>About me</b></summary>
@@ -24,10 +24,10 @@
   Kathleen Argueta
     ✓ studies Software Engineering & Digital Business at ESEN (3rd year)
     ✓ is looking for her first internship in QA, Cloud or SOC
-    ✓ standardizes processes so the people who run them can handle the unexpected
+    ✓ puts people first: asks why, standardizes the how, and keeps going
     ✓ led an internal system that took a manual process from 15 people to 5
     ✓ leads AIESEC at ESEN as Local Committee President
-    ✓ is resilient by default and honest by choice
+    ✓ is honest, resilient and curious
     ✓ still thinks Gravity Falls is the best cartoon ever made
 
  Tests:  7 passed, 7 total
@@ -61,14 +61,25 @@
 </details>
 
 <details>
+<summary><b>My GitHub in numbers</b></summary>
+
+<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KathleenArgueta&show_icons=true&include_all_commits=true&bg_color=0b0b0e&title_color=ff5fa8&icon_color=ff5fa8&text_color=f3f1f5&hide_border=true&border_radius=16" alt="Kathleen's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KathleenArgueta&layout=compact&bg_color=0b0b0e&title_color=ff5fa8&text_color=f3f1f5&hide_border=true&border_radius=16" alt="Most used languages" />
+<br>
+<img src="https://streak-stats.demolab.com?user=KathleenArgueta&background=0B0B0E&ring=FF5FA8&fire=FF5FA8&currStreakNum=F3F1F5&sideNums=F3F1F5&currStreakLabel=FF5FA8&sideLabels=A3A9B3&dates=A3A9B3&stroke=3A2A33&hide_border=true&border_radius=16" alt="Contribution streak" />
+
+</details>
+
+<details>
 <summary><b>Words to live by</b></summary>
 
 <blockquote>
-“Trust no one.”
-<br><strong>Journal 3, Gravity Falls</strong>
+“…if you're curious, don't wait. Take a trip. Find it. It's out there, somewhere in the woods… waiting.”
+<br><strong>Dipper Pines, Gravity Falls</strong>
 </blockquote>
 
-Zero trust before it was cool: in QA and in security, I verify before I believe.
+That's how I see learning: don't wait for the answer to find you. Go out, learn it, and turn it into a change people can see.
 
 </details>
 
@@ -78,11 +89,19 @@ Zero trust before it was cool: in QA and in security, I verify before I believe.
 
 <br><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KathleenArgueta/KathleenArgueta/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KathleenArgueta/KathleenArgueta/output/snake-light.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/KathleenArgueta/KathleenArgueta/output/snake-dark.svg" />
+</picture>
+
+<br><br>
+
 <a href="https://kathleenargueta.github.io"><img src="https://img.shields.io/badge/Portfolio-kathleenargueta.github.io-ff5fa8?style=for-the-badge&labelColor=0b0b0e" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/kathleenargueta"><img src="https://img.shields.io/badge/LinkedIn-kathleenargueta-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0e" alt="LinkedIn" /></a>
 
 <br><br>
 
-<sub>Journal layout inspired by <a href="https://github.com/Austinae">@Austinae</a>. Journal 3 drawn as fan art of Gravity Falls.</sub>
+<sub>Journal 3 drawn as fan art of Gravity Falls.</sub>
 
 </div>
