@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 276 400 280" role="img"><title>Journal 3, bottom</title>
+<defs>
+  <linearGradient id="cover" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6a2236"/><stop offset=".55" stop-color="#4f1828"/><stop offset="1" stop-color="#36101c"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7d58a"/><stop offset=".5" stop-color="#e2b15a"/><stop offset="1" stop-color="#b9852f"/></linearGradient>
+  <radialGradient id="sheen" cx="35%" cy="25%" r="80%"><stop offset="0" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+</defs>
+<path d="M284 514 h26 v40 l-13 -10 l-13 10 z" fill="#ff5fa8"/>
+<rect x="28" y="18" width="354" height="506" rx="12" fill="#efe3c8"/>
+<rect x="25" y="16" width="354" height="506" rx="12" fill="#d9c9a6"/>
+<rect x="22" y="14" width="356" height="506" rx="14" fill="url(#cover)"/>
+<rect x="22" y="14" width="356" height="506" rx="14" fill="url(#sheen)"/>
+<path d="M36 14 h28 v506 h-28 a14 14 0 0 1 -14 -14 v-478 a14 14 0 0 1 14 -14z" fill="#000" fill-opacity=".28"/>
+<rect x="22" y="70" width="42" height="7" fill="#000" fill-opacity=".25"/>
+<rect x="22" y="150" width="42" height="7" fill="#000" fill-opacity=".25"/>
+<rect x="22" y="384" width="42" height="7" fill="#000" fill-opacity=".25"/>
+<rect x="22" y="464" width="42" height="7" fill="#000" fill-opacity=".25"/>
+<rect x="76" y="30" width="286" height="474" rx="6" fill="none" stroke="#ff5fa8" stroke-opacity=".55" stroke-width="2" stroke-dasharray="7 6"/>
+<path d="M378 28 q0 -14 -14 -14 h-40 l54 54 z" fill="url(#gold)" transform="translate(0 0)"/>
+<circle cx="364" cy="28" r="3" fill="#7a5a1e"/>
+<path d="M378 506 q0 14 -14 14 h-40 l54 -54 z" fill="url(#gold)" transform="translate(0 0)"/>
+<circle cx="364" cy="506" r="3" fill="#7a5a1e"/>
+<path d="M22 28 q0 -14 14 -14 h40 l-54 54 z" fill="url(#gold)" transform="translate(0 0)"/>
+<circle cx="36" cy="28" r="3" fill="#7a5a1e"/>
+<path d="M22 506 q0 14 14 14 h40 l-54 -54 z" fill="url(#gold)" transform="translate(0 0)"/>
+<circle cx="36" cy="506" r="3" fill="#7a5a1e"/>
+<g fill="#1c0710" fill-opacity=".45" transform="translate(4 5)"><path d="M156 266 Q154 338 180 364 L182 408 Q216 416 250 408 L252 364 Q280 338 276 266 Q216 234 156 266Z"/><rect x="161.5" y="200.0" width="21" height="80.5" rx="10.5" transform="rotate(-25 172.0 270.0)"/><rect x="183.0" y="184.0" width="22" height="97.0" rx="11.0" transform="rotate(-11 194.0 270.0)"/><rect x="205.0" y="178.0" width="22" height="103.0" rx="11.0" transform="rotate(2 216.0 270.0)"/><rect x="227.0" y="184.0" width="22" height="97.0" rx="11.0" transform="rotate(15 238.0 270.0)"/><rect x="250.0" y="200.0" width="20" height="80.0" rx="10.0" transform="rotate(28 260.0 270.0)"/><rect x="157.5" y="254.0" width="25" height="88.5" rx="12.5" transform="rotate(-56 170.0 330.0)"/></g>
+<g fill="url(#gold)"><path d="M156 266 Q154 338 180 364 L182 408 Q216 416 250 408 L252 364 Q280 338 276 266 Q216 234 156 266Z"/><rect x="161.5" y="200.0" width="21" height="80.5" rx="10.5" transform="rotate(-25 172.0 270.0)"/><rect x="183.0" y="184.0" width="22" height="97.0" rx="11.0" transform="rotate(-11 194.0 270.0)"/><rect x="205.0" y="178.0" width="22" height="103.0" rx="11.0" transform="rotate(2 216.0 270.0)"/><rect x="227.0" y="184.0" width="22" height="97.0" rx="11.0" transform="rotate(15 238.0 270.0)"/><rect x="250.0" y="200.0" width="20" height="80.0" rx="10.0" transform="rotate(28 260.0 270.0)"/><rect x="157.5" y="254.0" width="25" height="88.5" rx="12.5" transform="rotate(-56 170.0 330.0)"/></g>
+<path d="M215.1 345Q210.2 345 206.5 344.1Q202.9 343.1 200.4 341.3Q198 339.5 196.6 336.8Q195.2 334.2 194.9 330.8L205.6 327.4Q205.8 329.4 206.5 331Q207.2 332.6 208.4 333.7Q209.7 334.8 211.4 335.4Q213.2 335.9 215.4 335.9Q218 335.9 220 335.2Q222 334.4 223 332.8Q224.1 331.2 224.1 328.8Q224.1 325.9 222 323.9Q219.9 321.9 215.5 321.2Q211.2 320.5 204.4 321.2V314.6L220.6 305.1V304.4L197.5 304.6V295.1H232.7V306L217.4 315.5V316.2Q224.5 315.7 228.5 317.5Q232.5 319.3 234.3 322.5Q236 325.6 236 329.3Q236 334.2 233.8 337.7Q231.5 341.2 226.9 343.1Q222.3 345 215.1 345Z" fill="#4f1828"/>
+</svg>
